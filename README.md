@@ -8,8 +8,6 @@ Planeringen:
 2.	 Test i Java:
 - Installera JUnit (Maven).
 - Skapa en test.
-3.	 Första algoritmen: Bubble sort.
-4.	 Andra algoritmen: Merge sort.
-5.	 Tredje algoritmen: Quick sort.
-6.	 Avslutning om TDD.
+3.	 Exempel: Insertion sort.
+4.	 Avslutning om TDD.
 
